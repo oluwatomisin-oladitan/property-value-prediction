@@ -32,7 +32,7 @@ A machine learning model to predict property values using LightGBM with log-tran
 |--------|-------|
 | Baseline MAE | ~80,000+ |
 | Reference solution MAE | ~43,553 |
-| Our MAE | ~44,144 |
+| Submission  MAE | ~44,144 |
 
 ## Technologies
 - Python
